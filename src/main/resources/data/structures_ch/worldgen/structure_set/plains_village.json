@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "structures_ch:plains_village",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 183253140,
+    "spacing": 20,
+    "separation": 5,
+    "type": "minecraft:random_spread"
+  }
+}
