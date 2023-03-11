@@ -1,7 +1,7 @@
 {
   "type": "minecraft:jigsaw",
   "start_pool": "structures_ch:plains_village/center",
-  "size": 10,
+  "size": 7,
   "max_distance_from_center": 128,
   "biomes": "#structures_ch:has_structure/plains_village",
   "step": "surface_structures",
