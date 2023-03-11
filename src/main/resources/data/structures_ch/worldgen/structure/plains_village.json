@@ -7,7 +7,7 @@
   "step": "surface_structures",
   "project_start_to_heightmap": "WORLD_SURFACE_WG",
   "start_height": {
-    "absolute": 0
+    "absolute": 1
   },
   "use_expansion_hack": false,
   "terrain_adaptation": "beard_thin",
