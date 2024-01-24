@@ -7,6 +7,9 @@ an open-source automated self-generating Hui-style village mod pack
 <img width="1680" alt="image" src="https://github.com/shaoxiongduan/forge_1.19.3_structuretest/assets/46639847/81d1c183-bddb-46ca-9fce-3778000453c9">
 
 
+Installation:
+==============================
+Download and drag the `structures_ch-0.0.1-1.19.3.jar` into the mods folder in the game files
 
 Source installation information for modders
 -------------------------------------------
@@ -18,7 +21,7 @@ Note also that the patches are built against "un-renamed" MCP source code (aka
 SRG Names) - this means that you will not be able to read them directly against
 normal code.
 
-Setup Process:
+Setup Process (For Developing):
 ==============================
 
 Step 1: Open your command-line and browse to the folder where you extracted the zip file.
